@@ -1,0 +1,63 @@
+LOCUS       NFAT_E                  1239 bp ds-DNA     linear       14-SEP-2017
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    29..29
+                     /label=N
+                     /ApEinfo_fwdcolor=#ff0002
+                     /ApEinfo_revcolor=#ff0002
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    30..904
+                     /label=good read
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    393..393
+                     /label=correct
+                     /ApEinfo_fwdcolor=#13ff00
+                     /ApEinfo_revcolor=#13ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    26..407
+                     /label=PCR product
+                     /ApEinfo_fwdcolor=#0014ff
+                     /ApEinfo_revcolor=#0014ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    38..376
+                     /label=NFAT
+                     /ApEinfo_fwdcolor=#fff586
+                     /ApEinfo_revcolor=#fff586
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 NNNNNNNNCG NNNCTGGTTN NNCGTGGAgC CGGACGTCCT CGCATCGAGA TAACCTCGTG
+       61 CTTGGGCCTG TACCACAACA ATAACCAGTT TTTCCACGAT GTGGAGGTGG AAGACGTCCT
+      121 CCCTAGCTCC AAACGGTCCC CCTCCACGGC CACGCTGAGT CTGCCCAGCC TGGAGGCCTA
+      181 CAGAGACCCC TCGTGCCTGA GCCCGGCCAG CAGCCTGTCC TCCCGGAGCT GCAACTCAGA
+      241 GGCCTCCTCC TACGAGTCCA ACTACTCGTA CCCGTACGCG TCCCCCCAGA CGTCGCCATG
+      301 GCAGTCTCCC TGCGTGTCTC CCAAGACCAC GGACCCCGAG GAGGGCTTTC CCCGCGGGCT
+      361 GGGGGCCTGC TGATGACTCG AGCTCAAGCT TAATTCATCG TGACTGACTG ACGATCTGCC
+      421 TCGCGCGTTT CGGTGATGAC GGTGAAAACC TCTGACACAT GCAGCTCCCG GAGACGGTCA
+      481 CAGCTTGTCT GTAAGCGGAT GCCGGGAGCA GACAAGCCCG TCAGGGCGCG TCAGCGGGTG
+      541 TTGGCGGGTG TCGGGGCGCA GCCATGACCC AGTCACGTAG CGATAGCGGA GTGTATAATT
+      601 CTTGAAGACG AAAGGGCCTC GTGATACGCC TATTTTTATA GGTTAATGTC ATGATAATAA
+      661 TGGTTTCTTA GACGTCAGGT GGCACTTTTC GGGGAAATGT GCGCGGAACC CCTATTTGTT
+      721 TATTTTTCTA AATACATTCA AATATGTATC CGCTCATGAG ACAATAACCC TGATAAATGC
+      781 TTCAATAATA TTGAAAAAGG AAGAGTATGA GTATTCAACA TTTCCGTGTC GCCCTTATTC
+      841 CCTTTTTTGC GGCATTTTGC CTTCCTGTTT TTGCTCACCC AGAAACGCTG GTGAAAGTAA
+      901 AAGANGCTGA AGATCAGTTG GGTGCACGAG TGGGTTACAT CGAACTGGNT CTCAACAGCG
+      961 GTAAGATCCT TGAGAGTTTT CGCCCCGAAN AACGTTTTCC AATGATGAGC ACTTTTAAAG
+     1021 NTCTGNTATG TGGCGCGGTN NNNCCCGTGN NNNNNNNGGC AGANCNNCTC NGNCNCNNCA
+     1081 TACNCTNTNN NNNANGACTN NNNNNNTANN CNNNNNNCAC NGAAAAGCAT CNTANGNNGN
+     1141 NTGNNNGNAN NNNNNNNNGC NNGCTNCNTN NNNNNNNNNN NNNNNNNNNN NNNTNNCNTN
+     1201 NNNNNNNNNN NCGGNNNNNN NNNAANNNNN NNNNCNNNN  
+//

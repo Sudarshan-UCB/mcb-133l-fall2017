@@ -1,0 +1,30 @@
+LOCUS       E1_SSS                   369 bp ds-DNA     linear       07-SEP-2017
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    19..38
+                     /label=comp_N-FwdBam118
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    336..351
+                     /label=comp_N-RevXho195
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 cagtacggat ccggacgtcc tcgcatcgag ataacctcgt gcttgggcct gtaccacaac
+       61 aataaccagt ttttccacga tgtggaggtg gaagacgtcc tccctagctc caaacggtcc
+      121 ccctccacgg ccacgctgag tctgcccagc ctggaggcct acagagaccc ctcgtgcctg
+      181 agcccggcca gcagcctgtc ctcccggagc tgcaactcag aggcctcctc ctacgagtcc
+      241 aactactcgt acccgtacgc gtccccccag acgtcgccat ggcagtctcc ctgcgtgtct
+      301 cccaagacca cggaccccga ggagggcttt ccccgcgggc tgggggcctg ctgatgactc
+      361 gagcagtac     
+//

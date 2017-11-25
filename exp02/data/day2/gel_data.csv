@@ -1,0 +1,19 @@
+Protein Type,Sample Type,Position,Area,Percent,Protein Conc
+GST_Only,Lysate,Above POI,13921.605,35.809,NA
+GST_Only,Lysate,POI,8877.012,22.833,
+GST_Only,Lysate,Below POI,16078.635,41.357,NA
+GST_Only,Flow_Through,Above POI,13579.706,41.563,NA
+GST_Only,Flow_Through,POI,3768.113,11.533,
+GST_Only,Flow_Through,Below POI,15325.099,46.905,NA
+GST_Only,Peak_Elution,Above POI,8640.581,31.027,NA
+GST_Only,Peak_Elution,POI,10937.79,39.276,
+GST_Only,Peak_Elution,Below POI,8269.933,29.696,NA
+GST_NFAT,Lysate,Above POI,51094.392,37.945,NA
+GST_NFAT,Lysate,POI,3463.899,2.572,
+GST_NFAT,Lysate,Below POI,80094.772,59.482,NA
+GST_NFAT,Flow_Through,Above POI,42343.856,35.652,NA
+GST_NFAT,Flow_Through,POI,3231.021,2.72,
+GST_NFAT,Flow_Through,Below POI,73193.428,61.627,NA
+GST_NFAT,Peak_Elution,Above POI,12158.673,17.892,NA
+GST_NFAT,Peak_Elution,POI,3129.506,4.605,
+GST_NFAT,Peak_Elution,Below POI,52669.517,77.503,NA
